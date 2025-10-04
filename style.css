@@ -11,6 +11,7 @@ html, body {
   max-width: 100%;
   overflow-x: hidden;   /* stops horizontal scrolling */
   font-family: "Inter", sans-serif;
+    overflow-y:auto;
 }
 
 .c1{
@@ -756,5 +757,6 @@ text-align:center;
     font-size:1rem;
     text-align:center;
 }
+
 
 }
